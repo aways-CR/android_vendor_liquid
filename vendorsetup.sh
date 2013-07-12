@@ -32,3 +32,4 @@ add_lunch_combo liquid_xt897c-userdebug
 add_lunch_combo liquid_xt907-userdebug
 add_lunch_combo liquid_xt925-userdebug
 add_lunch_combo liquid_xt926-userdebug
+add_lunch_combo liquid_galaxysmtd-userdebug
