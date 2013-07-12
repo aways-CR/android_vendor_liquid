@@ -19,6 +19,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     Camera \
     Galaxy4 \
+    HALO \
     HoloSpiralWallpaper \
     LiveWallpapers \
     LiveWallpapersPicker \
